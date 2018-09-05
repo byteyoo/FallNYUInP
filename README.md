@@ -1,2 +1,2 @@
-# FallNYUInP
-Fall NYU InP 2018
+# Initial page
+
