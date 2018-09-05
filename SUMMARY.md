@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Byte Me!](README.md)
+* [Byte Me! Main Page](README.md)
+* [Week 1!](week-1.md)
 

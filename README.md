@@ -2,7 +2,11 @@
 description: This website is for my Fall 2018 IDEATION AND PROTOTYPING!
 ---
 
-# Byte Me!
+# Byte Me! Main Page
 
-Week 1!
+WELCOME MAIN PAGE
+
+
+
+
 
