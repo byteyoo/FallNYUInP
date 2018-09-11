@@ -26,4 +26,8 @@ During my young teenage year, I didn't want to be an artist. I wanted to make vi
 
 I was raised in a family where both of my parents were an artist and a musician \(composer\). When I was 8, I'd always carry around my blank sketchbook and start drawing my own comics. I used draw comic book series (Roughly 4 volumes). Unfortunately, most of my sketchbooks were burnt and thrown away when I was moving to America. Essentially, I want to refine these characters and storyline to create an indie game. 
 
+![Sketch](drawingpad.jpg)
+![DrawingPad](sketch.jpg)
+
+
 ## Discovery Log
