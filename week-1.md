@@ -31,3 +31,5 @@ I was raised in a family where both of my parents were an artist and a musician 
 
 
 ## Discovery Log
+
+Deciding
