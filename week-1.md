@@ -38,4 +38,21 @@ I was raised in a family where both of my parents were an artist and a musician 
 
 I am starting my weekly update with my personal technology setup. Technology is important in today's world because it serves a variety of functions in many of the important aspects of modern society, for example, education, media, and business. During the past few years, in particular, computers have become, such an integral part of our society that technology has become a relied-on tool for most people.
 
+With that being said, let's look at my personal computer setup.
+I have attached my PC computer parts in this link! Check it out!
+PCPARTPICKER Link: https://pcpartpicker.com/list/X7LLpG
+
+Purpose: Multi-purpose, gaming, heavy graphic rendering and editing. For example, Unity Engine and Unreal Engine.
+
+Motherboard: I went with one of the cheapest options that supports my CPU and RAM. Works great!
+
+CPU: I went with Intel - Core i7-4790K 4GHz Quad-Core Processor, amazin for multithreading and rendering ability. I bought this CPU for my future long investment.
+
+CPU Cooler: Nothing special, Intel stock cooler.
+
+RAM: went with Corsair - Vengeance 8GB (2 x 4GB) DDR3-1600 Memory. If you are more heavy graphic/video editor, I would highly recommend upgrading your RAM to 16GB.
+
+GPU: I believe GeForce GTX 960 Video Card is a minimum requirement for a lot of graphic/video editing software. Still  works great for editing/rendering and awesome for gaming.
+
+
 
