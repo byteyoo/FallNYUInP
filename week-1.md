@@ -64,7 +64,7 @@ This is what I have discovered about my computer parts
 
 **Storage:** Let's talk real! Solid-state drives are awesome! I would highly ask my peers to change it to SSD if they're still using a old mechanical hard drive \(HDD\) on their computer, I tell my peers that this will be their biggest speed boost they will see comes from upgrading to a solid-state drive. Essentially, an SSD is typically a faster but smaller drive, on the other hand, a mechanical hard drive \(HDD\) is a larger but slower drive. Your SSD should hold your operating system files, commonly used programs \(for example, Adobe Creative Suite, Unity3D, etc.\) and any heavy rendering games. Your HDD should store your large media files and any static \(MP3, Documents\) files.
 
-With a new semester and new beginning of my chapter, I decided to modify and upgrade my computer. I've discovered that it takes a lot of research to build a proper and top functioning computer. I will be installing and setting up my essential software tools and more computer management for week 2. 
+With a new semester and new beginning of my chapter, I decided to modify and upgrade my computer. I want to explore and find my concentration for my first semester at NYU. I've discovered that it takes a lot of research to build a proper and top functioning computer. I will be installing and setting up my essential software tools and more computer management for week 2. 
 
 Stay Tuned!
 
