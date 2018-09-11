@@ -32,9 +32,10 @@ This is my reading response of the articles "The Miseducation of the Doodle and 
 
 During my young teenage year, I didn't want to be an artist. I wanted to make video games. Most of my artisitic interests at the time making Macromedia Flash application and drawing comic by sketch and pencils/pens. I think my art experience allow me to generate ideas, solving, problems, and visually communcating ideas more effectively. There is something special about the mix of thinking and handwork that enhances the ideas our brain process. As an engineer, it also reminded me that the value of sketching extends beyond design as a visualization tool for solving engineering problems.
 
-I was raised in a family where both of my parents were an artist and a musician \(composer\). When I was 8, I'd always carry around my blank sketchbook and start drawing my own comics. I used draw comic book series \(Roughly 4 volumes\). Unfortunately, most of my sketchbooks were burnt and thrown away when I was moving to America. Essentially, I want to refine these characters and storyline to create an indie game.
+I was raised in a family where both of my parents were an artist and a musician \(composer\). When I was 8, I'd always carry around my blank sketchbook and start drawing my own comics. I used draw comic book series \(Roughly 4 volumes\). Unfortunately, most of my sketchbooks were burnt and thrown away when I was moving to America. Essentially, I want to refine these characters and storyline to create an indie game soon.
 
 ## Discovery Log Week 1: Personal Technology Setup
 
+I am starting my weekly update with my personal technology setup. Technology is important in today's world because it serves a variety of functions in many of the important aspects of modern society, for example, education, media, and business. During the past few years, in particular, computers have become, such an integral part of our society that technology has become a relied-on tool for most people.
 
 
