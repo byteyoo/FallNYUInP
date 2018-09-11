@@ -52,7 +52,10 @@ CPU Cooler: Nothing special, Intel stock cooler.
 
 RAM: went with Corsair - Vengeance 8GB (2 x 4GB) DDR3-1600 Memory. If you are more heavy graphic/video editor, I would highly recommend upgrading your RAM to 16GB.
 
-GPU: I believe GeForce GTX 960 Video Card is a minimum requirement for a lot of graphic/video editing software. Still  works great for editing/rendering and awesome for gaming.
+GPU: I believe GeForce GTX 960 Video Card is a minimum requirement for a lot of heavy graphic/video editing software. Still  works great for editing/rendering and awesome for gaming.
 
+Case: I love this case, it is my favorite case to date. Mid-Sized tower, beautiful and smooth/clean design, love the fact that you can hide the power supply underneath and cable management was super easy!
 
+OS: Personal preference, I went with Windows 10 Operating System because Windows 10 is the newest OS (Future long investment and actively supporting at the moment) and provides a Linux-compatible kernel interface, also known as, Windows Subsystem for Linux (WSL). I can freely customize my programming setting with native linux command-line.
 
+Storage: Let's talk real! Solid-state drives are awesome! I would highly ask my peers to change it to SSD if they're still using a old mechanical hard drive (HDD) on their computer, I tell my peers that this will be their biggest speed boost they will see comes from upgrading to a solid-state drive. Essentially, an SSD is typically a faster but smaller drive, on the other hand, a mechanical hard drive (HDD) is a larger but slower drive. Your SSD should hold your operating system files, commonly used programs (for example, Adobe Creative Suite, Unity3D..etc.) and any heavy rendering games.
