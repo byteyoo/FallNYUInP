@@ -22,7 +22,8 @@ Post to your process website. You may have to upload micro and macro views of yo
 
 This is my reading response of the articles "The Miseducation of the Doodle and The Visual Thinking Power Tool".
 
-During my young teenage year, I didn't want to be an artist. I wanted to make video games. Most of my artisitic interests at the time making Macromedia Flash application and drawing comic by sketch and pencils/pens. I think my art experience allow me to generate ideas, solving, problems, and visually communcating ideas more effectively. There is something special about the mix of thinking and handwork that strengthens the ideas humans process. As an engineer, it also reminded me that the value of sketching extends beyond design as a visualization tool for solving engineering problems.
+During my young teenage year, I didn't want to be an artist. I wanted to make video games. Most of my artisitic interests at the time making Macromedia Flash application and drawing comic by sketch and pencils/pens. I think my art experience allow me to generate ideas, solving, problems, and visually communcating ideas more effectively. There is something special about the mix of thinking and handwork that enhances the ideas our brain process. As an engineer, it also reminded me that the value of sketching extends beyond design as a visualization tool for solving engineering problems.
 
-I was raised in a family where both of my parents were an artist and a musician \(composer\). When I was 8, I'd always carry around my blank sketchbook and start drawing my own comics. Unfortunately, most of my sketchbooks were burnt and thrown away when I was moving to America.
+I was raised in a family where both of my parents were an artist and a musician \(composer\). When I was 8, I'd always carry around my blank sketchbook and start drawing my own comics. I used draw comic book series (Roughly 4 volumes). Unfortunately, most of my sketchbooks were burnt and thrown away when I was moving to America. Essentially, I want to refine these characters and storyline to create an indie game. 
 
+## Discovery Log
