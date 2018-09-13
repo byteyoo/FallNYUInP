@@ -1,5 +1,13 @@
 # Table of contents
 
 * [Byte Me! Main Page](README.md)
-* [Week 1!](week-1.md)
+
+## Ideation and Prototyping Fall 2018
+
+* [Week 1!](ideation-and-prototyping-fall-2018/week-1.md)
+* [Untitled](ideation-and-prototyping-fall-2018/untitled.md)
+
+## Data Visualization Fall 2018
+
+* [Untitled](data-visualization-fall-2018/untitled.md)
 

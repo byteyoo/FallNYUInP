@@ -12,7 +12,7 @@ Create a mind map or concept map of all of the various inputs in your life \(i.e
 Post to your process website. You may have to upload micro and macro views of your map as images. You may also have multiple input maps.
 {% endhint %}
 
-![Steven Yoo&apos;s Inputs Map](.gitbook/assets/final_mind_maps%20%281%29.png)
+![Steven Yoo&apos;s Inputs Map](../.gitbook/assets/final_mind_maps%20%281%29.png)
 
 ## Personal Inventory
 
@@ -24,9 +24,9 @@ Post to your process website. You may have to upload micro and macro views of yo
 This is my reading response of the articles "The Miseducation of the Doodle and The Visual Thinking Power Tool".
 {% endhint %}
 
-![My First Comic Characters](.gitbook/assets/sketch.jpg)
+![My First Comic Characters](../.gitbook/assets/sketch.jpg)
 
-![Huion Drawing Pad](.gitbook/assets/drawingpad.jpg)
+![Huion Drawing Pad](../.gitbook/assets/drawingpad.jpg)
 
 During my young teenage year, I didn't want to be an artist. I wanted to make video games. Most of my artistic interests at the time making Macromedia Flash application and drawing comic by sketch and pencils/pens. I think my art experience allow me to generate ideas, solving, problems, and visually communicating ideas more effectively. There is something special about the mix of thinking and handwork that enhances the ideas our brain process. As an engineer, it also reminded me that the value of sketching extends beyond design as a visualization tool for solving engineering problems.
 
@@ -36,9 +36,9 @@ I was raised in a family where both of my parents were an artist and a musician 
 
 I am starting my weekly update with my personal technology setup. Technology is important in today's world because it serves a variety of functions in many of the important aspects of modern society, for example, education, media, and business. During the past few years, in particular, computers have become, such an integral part of our society that technology has become a relied-on tool for most people.
 
-![My Computer Setting](.gitbook/assets/computer_setting.jpg)
+![My Computer Setting](../.gitbook/assets/computer_setting.jpg)
 
-![My Computer \(NZXT - S340 \(Black/Blue\) ATX Mid Tower Case\) ](.gitbook/assets/computer_tower.jpg)
+![My Computer \(NZXT - S340 \(Black/Blue\) ATX Mid Tower Case\) ](../.gitbook/assets/computer_tower.jpg)
 
 With that being said, let's look at my personal computer setup. I have attached my PC computer parts information here.
 
