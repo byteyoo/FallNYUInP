@@ -18,3 +18,13 @@ Post your Freewriting Assignment to your blog. What is your favorite phrase that
 
 My favorite phrase would be "Her glue sticks and scissors are her sword and shield". It is implying that her craft tools are her ultimate weapons. :\)
 
+### Everything's Is a Remix Response
+
+{% hint style="info" %}
+Discuss any epiphanies or insights that occurred while watching, how it reflects your own process \(or does not and why\) or how it will inform or change your own process \(or will not and why\).
+{% endhint %}
+
+First, I was amazed by high quality work of Kirby Ferguson's "Everything's Is a Remix" series. 
+
+\*\*\*\*
+
