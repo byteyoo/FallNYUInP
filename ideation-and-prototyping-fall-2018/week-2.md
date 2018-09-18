@@ -34,6 +34,17 @@ I want to first point out that... I was amazed by high quality work of Kirby Fer
 
 My process website is focuses on discovering something new. Kirby's "Everything Is a Remix" videos brought some interesting points. I think his points will encourage and further pursue to use my creativity on my processing website. Kirby mentions that "everything we make is a remix of existing creations." and "Creation requires influence". As a creator, everyone should be aware of what does being original mean. Does that originality concept still viable? It is difficult to say. Maybe we are only limited to produce new ideas copy, transforming and combining as what Kirby states in his video. It is our \(creators\) job to accept it and respect our view of concepts as creativity, copying artworks.
 
+### Bonus
+
+**Find an example of a piece of art you like and follow it back at least 2 generations of influence.**
+
+![Atsuko Tanaka / Electric Dress \(1956\)](../.gitbook/assets/e-dress.jpg)
+
+![Daniel Toublanc / IL FAIT FROID \(2015\) ](../.gitbook/assets/buddha.jpg)
+
+  
+
+
 ### Steal Like An Artist Response
 
 {% hint style="info" %}
@@ -53,6 +64,8 @@ Whether you are an artist, software programmer, chef and so on and so forth. I t
 ![Article with circles around words and before blackout.](../.gitbook/assets/inkedieee_mag_li.jpg)
 
 ![&quot;Network enables developments&quot; :\)](../.gitbook/assets/network.jpg)
+
+This article is from IEEE Potential magazine. [https://ieeexplore.ieee.org/document/8457431/](https://ieeexplore.ieee.org/document/8457431/). When I saw these words of network, enables and developments. I think this simple phrase/poem is powerful enough to have different meanings for each people. For example, "social" network enables developments and "physical wifi" network enables "deeper" developments. I want my audience to use their imagination!
 
 ### Discovery Log Week 2: Setting Up Essential Software and Conference Update
 
