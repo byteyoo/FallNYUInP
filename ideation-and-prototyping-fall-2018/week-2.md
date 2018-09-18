@@ -65,6 +65,10 @@ Whether you are an artist, software programmer, chef and so on and so forth. I t
 
 ![&quot;Network enables developments&quot; :\)](../.gitbook/assets/network.jpg)
 
+#### Software-Defined Networks Article
+
+"A software-defined network \(SDN\) is an emerging network architecture that allows a centralized software program to control the behavior of an entire network."
+
 This article is from IEEE Potential magazine. [https://ieeexplore.ieee.org/document/8457431/](https://ieeexplore.ieee.org/document/8457431/). When I saw these words of network, enables and developments. I think this simple phrase/poem is powerful enough to have different meanings for each people. For example, "social" network enables developments and "physical wifi" network enables "deeper" developments. I want my audience to use their imagination!
 
 ### Discovery Log Week 2: Setting Up Essential Software and Conference Update
