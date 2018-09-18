@@ -48,6 +48,48 @@ My process website is focuses on discovering something new. Kirby's "Everything 
 
 ![&quot;Network enables developments&quot; :\)](../.gitbook/assets/network.jpg)
 
-  
+### Discovery Log Week 2: Setting Up Essential Software and Conference Update
 
+Like I have mentioned last week. I am going to explore and discover some great applications or software that I found this past week. :\)
+
+My friend introduced me this awesome tool called **Ninite!**
+
+  
+This guide is recommended for Windows 10 users.  
+  
+**Recommendation: Ninite**
+
+{% embed data="{\"url\":\"https://ninite.com/\",\"type\":\"link\",\"title\":\"Ninite - Install or Update Multiple Apps at Once\",\"description\":\"The easiest, fastest way to update or install software. Ninite downloads and installs programs automatically in the background.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://d8f7mp21btv4f.cloudfront.net/favicon-50c60524c110e749f013a1ca48f80b80.png\",\"aspectRatio\":0}}" %}
+
+Ninite is a software package management that lets users seamlessly install application for the Windows OS.
+
+**Here are my recommendation applications:**
+
+![](../.gitbook/assets/reco.PNG)
+
+**Web Browser: Google Chrome,** has a simple design that makes it easy to handle the web. Google Chrome is one of the best internet browsers because it is easy to use and secure.
+
+**Compression:** **7-Zip**, 7-Zip has been around for a while and they have ranked at the top for best compression utility.
+
+**Online** **Storage**: **Google Backup or Dropbox,** If you are NYU student, Google Drive will be a better option. You will get a free 1TB online storage. Otherwise, Dropbox will give you 2GB of free online storage and easy to use.
+
+**Media: VLC, Audacity and Spotify**, VLC and Audacity is a free and open-source video and audio media players. Spotify is a music streaming service :\).
+
+**Runtimes:** I would usually get all of them. You never know when you are going to use them in the future.
+
+**Developer Tools:** Python, Filezilla, Notepad ++, JDK 8, Putty, and Visual Studio Code
+
+**Integrated Development Environment \(IDE\):** Visual Studio Code is an editor that edit-build-debug with ease. With support for hundreds of programming languages, VS Code assists the users with syntax highlighting.
+
+I have used other editors like: Sublime and Atom. But I find both editors to be very complicated.
+
+Sublime has a $70 license fee with free trial \(whack!\)
+
+Atom feels slow. Sometimes, opening a file or switching tabs has noticeable lag. \(Ugh!\)
+
+I will be attending NYC Media Lab Summit 2018! September 20th to 21st. I am really excited meet and see amazing projects and people from across the NYC's industry. I will be writing about my thoughts about each workshops and innovative demos. 
+
+Stay tuned for next week's discovery log!
+
+Steven Yoo
 
