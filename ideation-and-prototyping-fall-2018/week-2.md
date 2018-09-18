@@ -40,7 +40,13 @@ My process website is focuses on discovering something new. Kirby's "Everything 
 **Write a response, and post to your process website. Or just watch the** [**TedXTalk**](https://www.youtube.com/watch?v=oww7oB9rjgw) **and use the book as reference.**
 {% endhint %}
 
-\*\*\*\*
+![10 points from the book](../.gitbook/assets/poster-0.gif)
+
+I really enjoyed reading this book! I noticed that our world is widely connected then any other generations \(Thanks to the internet\). So there have been nearly infinite arts that already have produced. On the other hand, we have people in the internet that discourages an artist's work. Nothing is original, but that’s not a bad thing. I believe there is still a lot of great art to learn from. The best kinds of art and artists thrive on many different influences. Now, it doesn't mean that try to be an exact image of an artist you like but instead, see through their eyes. Be creative and imitate your favorite artists. This is also known as "transformative" artwork. I personally learn a lot from this book. Thomas Edison didn't invent the lightbulb in the first place. He successfully commercialize the product by trying different filament types. There is a quote in this book that resonated me. 
+
+> _What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original. - Austin Kleon_
+
+Whether you are an artist, software programmer, chef and so on and so forth. I think it is important to know to keep move forward and do not let you limit yourself in one place. Create your own world and find communities you belong to.
 
 ### **Newspaper Blackout Poem**
 
@@ -55,7 +61,7 @@ Like I have mentioned last week. I am going to explore and discover some great a
 My friend introduced me this awesome tool called **Ninite!**
 
   
-This guide is recommended for Windows 10 users.  
+This guide is recommended for Windows 10 users \(mostly\).  
   
 **Recommendation: Ninite**
 
