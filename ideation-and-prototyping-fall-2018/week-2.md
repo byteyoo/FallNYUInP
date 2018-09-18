@@ -34,7 +34,17 @@ I want to first point out that... I was amazed by high quality work of Kirby Fer
 
 My process website is focuses on discovering something new. Kirby's "Everything Is a Remix" videos brought some interesting points. I think his points will encourage and further pursue to use my creativity on my processing website. Kirby mentions that "everything we make is a remix of existing creations." and "Creation requires influence". As a creator, everyone should be aware of what does being original mean. Does that originality concept still viable? It is difficult to say. Maybe we are only limited to produce new ideas copy, transforming and combining as what Kirby states in his video. It is our \(creators\) job to accept it and respect our view of concepts as creativity, copying artworks.
 
-**Newspaper Blackout Poem**
+### Steal Like An Artist Response
+
+{% hint style="info" %}
+**Write a response, and post to your process website. Or just watch the** [**TedXTalk**](https://www.youtube.com/watch?v=oww7oB9rjgw) **and use the book as reference.**
+{% endhint %}
+
+\*\*\*\*
+
+### **Newspaper Blackout Poem**
+
+![Article with circles around words and before blackout.](../.gitbook/assets/inkedieee_mag_li.jpg)
 
 ![&quot;Network enables developments&quot; :\)](../.gitbook/assets/network.jpg)
 
