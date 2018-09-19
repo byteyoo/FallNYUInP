@@ -9,5 +9,6 @@
 
 ## Data Visualization Fall 2018
 
-* [Introduction!](data-visualization-fall-2018/untitled.md)
+* [Week 1! - Introduction](data-visualization-fall-2018/untitled.md)
+* [Week 2!](data-visualization-fall-2018/week-2.md)
 

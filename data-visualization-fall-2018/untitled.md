@@ -2,7 +2,7 @@
 description: Data Visualization For the Community Fall 2018
 ---
 
-# Introduction!
+# Week 1! - Introduction
 
 "The course will take me through the process of understanding data visualization role's in our information landscape, evaluating the kind of data that is best for visualization, and connecting with communities that provide and use the data". - From Data Visualization Syllabus.
 
