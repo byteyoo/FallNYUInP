@@ -46,7 +46,7 @@ Facebook, Instagram, etc. uses HTML/CSS/JS
 
 ### Constraints / Challenges
 
-* constraints / challenges
+Nothing so far!
 
 
 
