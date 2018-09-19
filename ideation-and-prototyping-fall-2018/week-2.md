@@ -57,7 +57,8 @@ I really enjoyed reading this book! I noticed that our world is widely connected
 
 > _What a good artist understands is that nothing comes from nowhere. All creative work builds on what came before. Nothing is completely original. - Austin Kleon_
 
-Whether you are an artist, software programmer, chef and so on and so forth. I think it is important to know to keep move forward and do not let you limit yourself in one place. Create your own world and find communities you belong to.
+  
+In conclusion, whether you are an artist, software programmer, chef and so on and so forth. I think it is critically to keep move forward and do not let you limit yourself in one place. It is important to create your own world and find communities that you can grow.
 
 ### **Newspaper Blackout Poem**
 
