@@ -1,4 +1,4 @@
-# Week 2!
+# Week 2! - Start Visualizing
 
 **Start Visualizing.** Use the toolkit you’re building to start visualizing data to show on September 20.
 
