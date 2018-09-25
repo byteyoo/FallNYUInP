@@ -43,9 +43,14 @@ Steven Yoo
 
 ### 
 
-### Discovery/Inspiration - The Bomb Squad
+### Discovery/Inspiration -  DJ Spooky
 
 {% hint style="info" %}
  **Research one or more of the following artists for inspiration and post your findings and response on your process website.**
 {% endhint %}
+
+![Paul D. Miller aka DJ Spooky](../.gitbook/assets/djspooky.jpg)
+
+**Paul D. Miller aka DJ Spooky** is a composer, multimedia artist and writer whose work immerses audiences in a blend of genres, global culture, and environmental and social issues. His work focuses with the notion of the psychology of how much affects the human's whole body. DJ Spooky's interest   
+
 
