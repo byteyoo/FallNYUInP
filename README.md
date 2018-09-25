@@ -19,7 +19,7 @@ Week 4: Upgrading My Facial Sentimental Analysis Algorithm \(?\)
 Week 5:  
 Week 6:  
 Week 7:  
-Week 8:  
+Week 8: NY Virtual Reality Expo  
 Week 9: MIT Conference Presentation ;\)  
 Week 10:  
 Week 11:  
