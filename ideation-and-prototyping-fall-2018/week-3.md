@@ -33,7 +33,11 @@ Steven Yoo
 ![Objective: Burger](../.gitbook/assets/krabby.jpg)
 
   
+**What are the two best ideas?**
 
+**1\) Adapt/Sauce: Bringing a new culture \(Soy Sauce Implementation\)**
+
+**2\) Burger and Potato Chips or Fries!! Best Combinations in my opinion**
 
 ![](../.gitbook/assets/scamper.PNG)
 
