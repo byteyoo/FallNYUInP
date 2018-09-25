@@ -20,7 +20,7 @@ Week 5:
 Week 6:  
 Week 7:  
 Week 8:  
-Week 9:  
+Week 9: MIT Conference Presentation ;\)  
 Week 10:  
 Week 11:  
 Week 12:  
