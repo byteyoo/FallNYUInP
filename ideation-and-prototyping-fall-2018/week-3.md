@@ -39,5 +39,13 @@ Steven Yoo
 
 **2\) Burger and Potato Chips or Fries!! Best Combinations in my opinion**
 
-![](../.gitbook/assets/scamper.PNG)
+![SCAMPER!!](../.gitbook/assets/scamper.PNG)
+
+### 
+
+### Discovery/Inspiration - The Bomb Squad
+
+{% hint style="info" %}
+ **Research one or more of the following artists for inspiration and post your findings and response on your process website.**
+{% endhint %}
 
