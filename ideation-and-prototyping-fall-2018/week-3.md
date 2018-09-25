@@ -1,5 +1,27 @@
 # Week 3!
 
+### Metal Gear Solid 2 vs. 4 Response
+
+{% hint style="info" %}
+**Discuss any epiphanies or insights that occurred while watching, compare and contrast the process of 2 versus 4, how it reflects your own process \(or does not and why\) or how it will inform or change your own process \(or will not and why\).**
+{% endhint %}
+
+![Metal Gear Solid 2](../.gitbook/assets/mgs2.jpg)
+
+![Metal Gear Solid 4](../.gitbook/assets/mgs4.jpg)
+
+Growing up with the PlayStation 2, one of my favorite game is Metal Gear Solid 2 \(MGS2\). I would spent countless hours on finishing up the storyline. Hideo Kojima, Japanese game designer really took his time to make MGS2 from its predecessor \(MGS1\). The PlayStation 2 was one of the most revolutionary gaming consoles ever made, and it also produced some of the best graphic \(from that era, of course\) and games ever. Metal Gear Solid 2 was no exception. From this documentary, Kojima mentions that MGS1 makes a reference to 2001: A Space Odyssey movie character and MGS2 introduction scene was influence to  movie Titanic \(sinking scene\). Kojima and his team uses Lego pieces, physical experiences \(visiting NYC and simulating the action scene\) and physical drawing \(notebook\) to enhance the game's overall visualization and storyline. I've learned that I should utilize more visualization aspect of my process and discovering what were my influences.
+
+I thought it was very interesting when Shikawa, Kojima's close friend and video designer mentions about PS2 to PS3 graphic enhancement. It may take 10 times to develop an ideal background lightning. Sasaki also mentions that it takes a lot of time to create various effects. This added work brought about significant delays in the Metal Gear Solid 4. Despite of that huge amount of stress, the team still manage to create a masterpiece of its own! My point is that I should try my best and produce a high quality process content.
+
+**Random Thought:** I thought Metal Gear Solid 2 vs 4 \(Snake\) reminded me X-Men Logan and Old man Logan. 
+
+![](../.gitbook/assets/logans.jpg)
+
+:\)
+
+Steven Yoo
+
 ### Discovery Log Week 3: New York City Media Lab \(NYCML' 18\)
 
 I had a chance to participate this year's NYCML'18  at the NYU Kimmel Center! Essentially, NYCML is a summit/conference that brings best thinking, projects, and talent from across the city's industry and university. They provide a lot of cool discussions, hands-on workshops, and more than 100 demos about the digital media innovation.
@@ -16,7 +38,7 @@ I was helping out Professor Kathleen McDermott's " **Speculative Wearable Tech +
 
 ![Me: Helping out with Breadboard connection and software debugging.](../.gitbook/assets/img_4694.JPG)
 
-####  Remote Controlled Motor :\), It was their first time doing hardware and software!
+####  Remote Controlled Motor :\), It was their first time doing hardware and software! \(Explain their Process\)
 
 {% embed data="{\"url\":\"https://youtu.be/HWQxpLw1\_8U\",\"type\":\"video\",\"title\":\"NYCML 18\'\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/HWQxpLw1\_8U/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/HWQxpLw1\_8U?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/HWQxpLw1\_8U?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
 
