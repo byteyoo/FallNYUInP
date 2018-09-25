@@ -73,6 +73,14 @@ Steven Yoo
 
 ![Paul D. Miller aka DJ Spooky](../.gitbook/assets/djspooky.jpg)
 
-**Paul D. Miller aka DJ Spooky** is a composer, multimedia artist and writer whose work immerses audiences in a blend of genres, global culture, and environmental and social issues. His work focuses with the notion of the psychology of how much affects the human's whole body. DJ Spooky's interest   
+**Paul D. Miller aka DJ Spooky** is a composer, multimedia artist and writer whose work immerses audiences in a blend of genres, global culture, and environmental and social issues. His work focuses with the notion of the psychology of how much affects the human's minds. 
+
+DJ Spooky created a film "Rebirth of Nation", which is his reconstruction of D.W. Griffith's controversial 1915 silent film "The Birth of Nation" and many influences on Thomas Dixon's The Clansman, about the Civil War into a visually groundbreaking fact on white supremacy. He redesigns Griffith's achievement within an updated moral framework. D.W. Griffith was known as "the Man who invented Hollywood". Griffith's films were mainly used as propaganda. The Birth of Nation was used as a recruitment film for the Ku Klux Klan at least up until the mid-1960s. I learned through my African-American History class for my undergraduate elective course. But I have also taken a cinema class where they emphasize the movie for its technically stance. 
+
+ I am wondering... can being on the wrong side of history ruin what remains a brilliant technical achievement? Ultimately, history shapes from the winner \(Roman Empire, USSR, and many more\). Something that we should think about!
+
+Cheers,
+
+Steven Yoo  
 
 
