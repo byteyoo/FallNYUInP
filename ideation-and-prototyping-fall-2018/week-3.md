@@ -28,3 +28,12 @@ Shout out to Todd and Kat's NYC Media Lab First Place award! \(Relevant Motion\)
 
 Steven Yoo
 
+### SCAMPER
+
+![Objective: Burger](../.gitbook/assets/krabby.jpg)
+
+  
+
+
+![](../.gitbook/assets/scamper.PNG)
+
