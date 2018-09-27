@@ -4,6 +4,8 @@ description: ':)'
 
 # Week 3! - Phase 1 and The Community Partner
 
+Simple Live Demo Link: [http://www.byteyoo.com/DataVis/](http://www.byteyoo.com/DataVis/)
+
 {% hint style="info" %}
 * **Discuss datasets you’re thinking about.** Write a brief post about some of the datasets you’re considering, either from the “Approved” Datasets, from the community partners, or from your own exploration. What are some of your considerations for choosing your Phase 1 dataset?
 * **Discuss your visualization progress.** Please show screenshots and updates on your visualization progress. We will spend some time next week on your work, questions, and progress.
