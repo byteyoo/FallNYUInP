@@ -12,4 +12,5 @@
 
 * [Week 1! - Introduction](data-visualization-fall-2018/untitled.md)
 * [Week 2! - Start Visualizing](data-visualization-fall-2018/week-2.md)
+* [Week 3! - Phase 1 and The Community Partner](data-visualization-fall-2018/week-3-phase-1-and-the-community-partner.md)
 
