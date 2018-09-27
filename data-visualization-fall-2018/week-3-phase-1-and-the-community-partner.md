@@ -113,6 +113,13 @@ Cheers!
 
 Steven Yoo
 
+### **Paper-based visualization**
+
+![Size of Storage \(Private vs City\) - Chian &amp; Richelle](../.gitbook/assets/screen-shot-2018-09-27-at-4.16.54-pm.png)
+
+  
+**I picked this visualization because 1\) It clearly separates from "Private vs. City" 2\) A single storage variables \(S1 - S17\). I personally like to split data and present its unique solutions. I understand that this is just a prototype, I wish that they have implemented Y-axis \(Size\).** 
+
  ****
 
 
