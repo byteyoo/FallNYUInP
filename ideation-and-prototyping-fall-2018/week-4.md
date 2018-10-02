@@ -45,6 +45,19 @@ Hitchcock looks right at the audience in a way that makes people think he broke 
 
 ![Rear Window](../.gitbook/assets/hitchcock-main.jpg)
 
+  
+**Biographies:**
+
+  
+**Writing with Hitchcock: The Collaboration of Alfred Hitchcock and John Michael Hayes**   
+by Steven DeRosa **Link:** [http://a.co/d/7aCrHPA](http://a.co/d/7aCrHPA)  
+  
+**Alfred Hitchcock: A Life in Darkness and Light**   
+by Patrick McGilligan **Link:** [http://a.co/d/3KMMrAz](http://a.co/d/3KMMrAz)  
+  
+**Alfred Hitchcock**   
+by Peter Ackroyd **Link:** [http://a.co/d/hQhbi9P](http://a.co/d/hQhbi9P)
+
 ### Storyboard Draft!
 
 ![Alfred Hitchcock&apos;s Storyboard draft](../.gitbook/assets/screen-shot-2018-10-02-at-2.15.50-pm.png)
