@@ -15,7 +15,7 @@ IDEATION AND PROTOTYPING SCHEDULES \(EXPECT TO CHANGE\):
 Week 1: Personal Technology Setup  
 Week 2: Setting Up Essential Software and Conference Update  
 Week 3: New York City Media Lab \(NYCML' 18\)  
-Week 4: Upgrading My Facial Sentimental Analysis Algorithm \(?\)  
+Week 4: The New York Academy of Sciences  
 Week 5:  
 Week 6:  
 Week 7:  
