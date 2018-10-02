@@ -45,6 +45,16 @@ Hitchcock looks right at the audience in a way that makes people think he broke 
 
 ![Rear Window](../.gitbook/assets/hitchcock-main.jpg)
 
+### Storyboard Draft!
+
+![Alfred Hitchcock&apos;s Storyboard draft](../.gitbook/assets/screen-shot-2018-10-02-at-2.15.50-pm.png)
+
+### Documentation of Tools and Techniques
+
+For this week's assignment, I will have a storyboard draft for our documentaries and making Hitchcock's creative storyboard and production techniques. He influenced a lot of current Hollywood directors like Marin Scorsese and Quentin Tarantino. It would be very interesting to see some sort of mashups of Hitchcock's movies and other Hollywood directors' movies collaborate together and possibly create something that is very unique from its own! 
+
+
+
 #### Possible Outline \(Subject to change\)
 
 **I. Introduction: Hitchcock’s early influence \(i.e. Background, education\), Early Hollywood Movie Influence.**
