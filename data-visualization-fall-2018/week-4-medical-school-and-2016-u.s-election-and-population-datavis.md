@@ -6,6 +6,8 @@ description: ':) Using HTML + D3.js +Chart.js'
 
 ### Datasets
 
+![](../.gitbook/assets/screen-shot-2018-09-20-at-12.31.08-am.png)
+
 I used two set of datasets: US Census Population dataset and Total Enrollment by U.S. Medical School and Race/Ethnicity, 2015-2016 dataset.
 
 #### US Population Map
