@@ -2,7 +2,7 @@
 description: ':) Using HTML + D3.js +Chart.js'
 ---
 
-# Week 4! - Medical School and 2016 U.S Election and Population DataVis
+# Week 4! - Medical School and 2010 U.S Population DataVis
 
 ### Datasets
 

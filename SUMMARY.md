@@ -14,5 +14,5 @@
 * [Week 1! - Introduction](data-visualization-fall-2018/untitled.md)
 * [Week 2! - Start Visualizing](data-visualization-fall-2018/week-2.md)
 * [Week 3! - Phase 1 and The Community Partner](data-visualization-fall-2018/week-3-phase-1-and-the-community-partner.md)
-* [Week 4! - Medical School and 2016 U.S Election and Population DataVis](data-visualization-fall-2018/week-4-medical-school-and-2016-u.s-election-and-population-datavis.md)
+* [Week 4! - Medical School and 2010 U.S Population DataVis](data-visualization-fall-2018/week-4-medical-school-and-2016-u.s-election-and-population-datavis.md)
 
