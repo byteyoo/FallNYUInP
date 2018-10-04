@@ -29,6 +29,18 @@ I used 2010 Census population dataset to see if each states have similar pattern
 
 ![Western United States Medical Student Ethnicity Chart \(All Ethnicities\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.18.08-pm.png)
 
+![Southern United States Major Medical Student Ethnicity Chart \(All Ethnicities\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.55.57-pm.png)
+
+#### If we filter this data more...
+
+#### Black Medical Students Western US vs Southern US
+
+![Western US Medical Students \(Black\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.54.39-pm.png)
+
+![Southern US Medical Students \(Black\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.53.34-pm.png)
+
+####  
+
 This bar graph represents Western US States Medical Student Ethnicity.  
 
 ![Western United States Medical Student Ethnicity Chart \(Asian Population\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.18.30-pm.png)
