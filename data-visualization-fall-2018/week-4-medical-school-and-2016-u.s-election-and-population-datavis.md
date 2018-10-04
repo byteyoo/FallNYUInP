@@ -21,11 +21,16 @@ AND
 
 ![Total U.S Medical Students ](../.gitbook/assets/screen-shot-2018-10-04-at-2.14.45-pm.png)
 
-I used 2010 Census population dataset to see if each states have similar patterns. Both these two maps have shockingly similar ratio. I found that there are more 
+I used 2010 Census population dataset to see if each states have similar patterns. Both these two maps have shockingly similar ratio. I believe that the more populated states receive more government/federal aids to conduct research and expand their programs even further.
 
 ### Western United States Medical Student Ethnicity Chart
 
 ![Western United States Medical Student Ethnicity Chart \(All Ethnicities\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.18.08-pm.png)
 
-###  
+![Western United States Medical Student Ethnicity Chart \(Asian Population\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.18.30-pm.png)
+
+  
+
+
+### 
 
