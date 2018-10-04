@@ -41,6 +41,9 @@ I used 2010 Census population dataset to see if each states have similar pattern
 
 #### If we filter this data more...
 
+  
+You may click the labels and filter them out.
+
 #### Black Medical Students Western US vs Southern US
 
 ![Western US Medical Students \(Black\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.54.39-pm.png)
