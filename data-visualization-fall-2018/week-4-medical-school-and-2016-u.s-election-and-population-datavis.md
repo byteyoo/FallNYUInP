@@ -4,7 +4,7 @@ description: ':)'
 
 # Week 4! - Medical School and 2016 U.S Election and Population DataVis
 
-
+### Datasets
 
 I used two set of datasets: US Census Population dataset and Total Enrollment by U.S. Medical School and Race/Ethnicity, 2015-2016 dataset.
 
@@ -13,7 +13,9 @@ Dataset \(Census\) [https://www.census.gov/data/datasets/2017/demo/popest/state-
 
 AND
 
-[http://byteyoo.com/DataVis/Medical/](http://byteyoo.com/DataVis/Medical/) - Total Enrollment by U.S. Medical School and Race/Ethnicity, 2015-2016 
+[http://byteyoo.com/DataVis/Medical/](http://byteyoo.com/DataVis/Medical/) - Total Enrollment by U.S. Medical School and Race/Ethnicity, 2015-2016 \(Western US\)
+
+[http://byteyoo.com/DataVis/Medical/southern.html](http://byteyoo.com/DataVis/Medical/southern.html) \(Southern Major Cities\)
 
 ### U.S. 2010 Census Population dataset + Total Students in U.S. Medical School
 
@@ -26,6 +28,8 @@ I used 2010 Census population dataset to see if each states have similar pattern
 ### Western United States Medical Student Ethnicity Chart
 
 ![Western United States Medical Student Ethnicity Chart \(All Ethnicities\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.18.08-pm.png)
+
+This bar graph represents Western US States Medical Student Ethnicity.  
 
 ![Western United States Medical Student Ethnicity Chart \(Asian Population\)](../.gitbook/assets/screen-shot-2018-10-04-at-2.18.30-pm.png)
 
