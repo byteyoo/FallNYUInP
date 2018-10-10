@@ -4,7 +4,13 @@ description: ':)'
 
 # Week 5!
 
-### Basic Facial Recognition and Machine Learning Process + Discovery
+### Seol Won Foundation Party and Korean Pansori Group
 
-After 2 weeks of conferences \(New York City Media Lab and New York Academy of Science\) . I decided to work on my previous facial recognition algorithm and/or cleanup for this week.
+{% embed url="http://www.seolwonfoundation.com/" %}
+
+After 2 weeks of conferences \(New York City Media Lab and New York Academy of Science\) . I had an opportunity to help my grandmother with her non-profit educational organization "Seol Won Foundation" Link: [http://www.seolwonfoundation.com/](http://www.seolwonfoundation.com/). The Seol Won Foundation focuses to bridge cultures East and West through scholarly exchanges, lectures, research, and vocational training for all age groups and levels of expertise. Korean Pansori Group \(Link: [https://en.wikipedia.org/wiki/Pansori](https://en.wikipedia.org/wiki/Pansori)\)  Pansori is a Korean genre of musical storytelling performed by a singer and a drummer. Here is a quick YouTube video that describes what Pansori is: 
+
+{% embed url="https://www.youtube.com/watch?v=8Kt7YdXsWzg" caption="Pansori: South Korea\'s Authentic Musical Storytelling" %}
+
+It was a great to bring traditional Korean folk singers to this party and allow me to listen to their beautiful performance. Frankly, this was my first time ever watching/listening to the live Pansori performance. I didn't anticipate to experience this amazing Pansori in United States.  
 
