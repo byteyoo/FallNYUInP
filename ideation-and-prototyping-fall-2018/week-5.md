@@ -12,5 +12,15 @@ After 2 weeks of conferences \(New York City Media Lab and New York Academy of S
 
 {% embed url="https://www.youtube.com/watch?v=8Kt7YdXsWzg" caption="Pansori: South Korea\'s Authentic Musical Storytelling" %}
 
-It was a great to bring traditional Korean folk singers to this party and allow me to listen to their beautiful performance. Frankly, this was my first time ever watching/listening to the live Pansori performance. I didn't anticipate to experience this amazing Pansori in United States.  
+It was a great to bring traditional Korean folk singers to this party and allow me to listen to their beautiful performance. Frankly, this was my first time ever watching/listening to the live Pansori performance. I didn't anticipate to experience this amazing Pansori in United States. I learned and discovered that it is important to know and appreciate your ethnicity and culture. As an Asian American, I often forget about my Korean heritage and emphasizes on my American identity. It is something that many future Asian American people should be proud and understanding the particular \(in this case: pansori\) performance. Asking yourself, where is the creative process behind "Pansori"? How did it start?
+
+I have attached some images from the event:
+
+![](../.gitbook/assets/img_4819.JPG)
+
+![](../.gitbook/assets/img_4822.JPG)
+
+ Cheers!
+
+Steven Yoo
 
