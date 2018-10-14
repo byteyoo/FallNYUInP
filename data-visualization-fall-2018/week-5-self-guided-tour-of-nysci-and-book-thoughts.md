@@ -10,8 +10,38 @@ description: ':)'
  [New York Hall of Science](http://nysci.org/location/) \(NYSCI\) and take your own self-guided tour of NYSCI’s exhibits, “[Connected Worlds](http://nysci.org/connected-worlds/)” and “[Mathematica](http://nysci.org/mathematica/).” Please take notes on BOTH exhibits.
 {% endhint %}
 
-It will be updated soon!
+I really enjoyed the NYSCI Self-Guided tour! The last time I came here was around 2008! \(So about 10 years or so\). It was really awesome to see how new technologies has changed the NYSCI programs.
 
+Here is my video for my trip! Enjoy :\)
+
+{% embed url="https://www.youtube.com/watch?v=ipI4cMmRrrA" %}
+
+**Connected Worlds**
+
+Connected Worlds is an interactive ecosystem developed for the New York Hall of Science. The installation is composed of six interactive ecosystems spread out across the walls of the Great Hall, connected together by a 3000 sqft interactive floor and a 45ft high waterfall.
+
+Children play around with a virtual-reality water in the system and have to work together to control and deliver the water across the different environment settings. Virtual clouds return water from the environment settings to the waterfall which releases water to the floor when it rains.
+
+![Connected Worlds](../.gitbook/assets/image.png)
+
+![](../.gitbook/assets/img_4869.JPG)
+
+![SEI05: Search for a Signal](../.gitbook/assets/img_4892.JPG)
+
+![About SEI05](../.gitbook/assets/img_4907.JPG)
+
+  
+
+
+  
+
+
+  
+
+
+**Mathematica**
+
+  
 
 
 ### Blog Post: Book Thoughts:
