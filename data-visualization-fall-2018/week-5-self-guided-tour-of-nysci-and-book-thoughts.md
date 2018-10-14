@@ -38,7 +38,9 @@ Children play around with a virtual-reality water in the system and have to work
 
 **Mathematica**
 
-  
+![](../.gitbook/assets/img_4905.JPG)
+
+Mathematica displays the range of mathematics and uses a time-tested collection of exhibits to share the excitement that mathematicians find in pursuing their science. Through a combination of hands-on activities and dynamic models, visitors are invited to explore how math has impacted so many facets of our contemporary world, from the devices we carry in our hands to the changes in social sciences, art, music, and architecture.  
 
 
 ### Blog Post: Book Thoughts:
