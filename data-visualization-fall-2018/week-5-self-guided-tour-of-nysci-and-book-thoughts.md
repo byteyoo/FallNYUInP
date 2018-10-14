@@ -30,13 +30,10 @@ Children play around with a virtual-reality water in the system and have to work
 
 ![About SEI05](../.gitbook/assets/img_4907.JPG)
 
-  
+![SEI05 Information](../.gitbook/assets/img_4908.JPG)
 
+![More Description](../.gitbook/assets/img_4909.JPG)
 
-  
-
-
-  
 
 
 **Mathematica**
