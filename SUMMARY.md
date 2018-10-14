@@ -9,6 +9,7 @@
 * [Week 3!](ideation-and-prototyping-fall-2018/week-3.md)
 * [Week 4!](ideation-and-prototyping-fall-2018/week-4.md)
 * [Week 5!](ideation-and-prototyping-fall-2018/week-5.md)
+* [Week 6!](ideation-and-prototyping-fall-2018/week-6.md)
 
 ## Data Visualization Fall 2018
 
