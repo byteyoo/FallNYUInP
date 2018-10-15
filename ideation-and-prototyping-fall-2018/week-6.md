@@ -4,7 +4,9 @@ description: ':)'
 
 # Week 6!
 
-### Discovery Log Week 6: Self-Guided Tour of NYSCI.
+### Discovery Log Week 6: Self-Guided Tour of NYSCI \(New York Hall of Science\)
+
+
 
 
 
