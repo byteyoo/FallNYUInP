@@ -4,7 +4,7 @@ description: 'Week 1 HW :)'
 
 # Week 1!
 
-## Inputs Map {#inputs-map}
+## Inputs Map <a id="inputs-map"></a>
 
 {% hint style="info" %}
 Create a mind map or concept map of all of the various inputs in your life \(i.e. this is the total range of what comes into you from outside of your own imagination.\)
@@ -18,7 +18,7 @@ Post to your process website. You may have to upload micro and macro views of yo
 
 {% embed url="https://www.youtube.com/watch?v=JKn\_16Zfubg" %}
 
-## Reading Response of Sketching: The Miseducation of the Doodle and The Visual Thinking Power Tool {#reading}
+## Reading Response of Sketching: The Miseducation of the Doodle and The Visual Thinking Power Tool <a id="reading"></a>
 
 {% hint style="info" %}
 This is my reading response of the articles "The Miseducation of the Doodle and The Visual Thinking Power Tool".
