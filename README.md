@@ -18,9 +18,9 @@ Week 3: New York City Media Lab \(NYCML' 18\)
 Week 4: The New York Academy of Sciences  
 Week 5: Seol Won Foundation Party and Korean Pansori Group  
 Week 6: Self-Guided Tour of NYSCI  
-Week 7:  
+Week 7: MIT Urban Planning  
 Week 8: NY Virtual Reality Expo  
-Week 9: MIT Conference Presentation ;\)  
+Week 9: MIT Media Lab Conference ;\)  
 Week 10:  
 Week 11:  
 Week 12:  
