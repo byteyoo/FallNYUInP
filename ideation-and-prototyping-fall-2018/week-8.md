@@ -18,8 +18,13 @@ I was able to meet with forward-thinking developers, creators, and professionals
 
 ![](../.gitbook/assets/img_4980.JPG)
 
-  
+###  Ira Glass on storytelling
 
+{% hint style="info" %}
+**Discuss any epiphanies or insights that occurred while watching, how it reflects your own process \(or does not and why\) or how it will inform or change your own process \(or will not and why\).**
+{% endhint %}
 
 #### 
+
+
 
