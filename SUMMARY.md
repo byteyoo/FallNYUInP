@@ -21,4 +21,5 @@
 * [Week 4! - Medical School and 2010 U.S Population DataVis](data-visualization-fall-2018/week-4-medical-school-and-2016-u.s-election-and-population-datavis.md)
 * [Week 5! - Self-guided tour of NYSCI and Book Thoughts](data-visualization-fall-2018/week-5-self-guided-tour-of-nysci-and-book-thoughts.md)
 * [Week 6 & 7! - Reflection on ProPublica and NYU Data Services](data-visualization-fall-2018/week-6-and-7-reflection-on-propublica-and-nyu-data-services.md)
+* [Week 8! - MIT CREATE UPDATE](data-visualization-fall-2018/week-8-mit-create-update.md)
 
