@@ -62,6 +62,8 @@ The Machine Intelligence Community has a set of core values it stands to uphold.
 2. **Education**. We aim to provide surface area for intellectual engagement. Our primary focus is teaching members and the community at-large about machine intelligence.
 3. **Community**. By doing this, we hope to cultivate and connect communities and like-minded students to accelerate progress in machine intelligence.
 
+![Human manipulation](../.gitbook/assets/img_88b9026152b6-1.jpeg)
+
 **What did I discover?**
 
 For the past 2 years, I was part of the Machine Learning/ AI research group at my undergraduate institution. It was a good educational trip to bring back my AI knowledge to my daily coding skills. I believe that Machine Learning or Data Science will be used in my thesis project. Whether large or small scale. I do not want to discard my previous learning into garbage. I think NYU-X Lab's Holodeck project will be needing data analysis or at least data visualization components. For the next semester, I want to be familiar with VR/AR software and hardware tools so that I can be: 1\) a versatile engineer 2\) a great contribution to the project. I have a feeling that I am one step closer to finding my passion.
