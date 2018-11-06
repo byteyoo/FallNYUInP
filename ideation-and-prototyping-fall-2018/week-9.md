@@ -75,6 +75,10 @@ Automated Pattern Recognization in Satellite Imagery Analysis ****
 
 ![Scene Segmentation](../.gitbook/assets/image.png)
 
+  
+Video Link: [https://code.fb.com/core-data/connecting-the-world-with-better-maps/](https://code.fb.com/core-data/connecting-the-world-with-better-maps/)  
+Wiki: [https://wiki.openstreetmap.org/wiki/AI-Assisted\_Road\_Tracing](https://wiki.openstreetmap.org/wiki/AI-Assisted_Road_Tracing)
+
 **What did I discover?**
 
 For the past 2 years, I was part of the Machine Learning/ AI research group at my undergraduate institution. It was a good educational trip to bring back my AI knowledge to my daily coding skills. I believe that Machine Learning or Data Science will be used in my thesis project. Whether large or small scale. I do not want to discard my previous learning into garbage. I think NYU-X Lab's Holodeck project will be needing data analysis or at least data visualization components. For the next semester, I want to be familiar with VR/AR software and hardware tools so that I can be: 1\) a versatile engineer 2\) a great contribution to the project. I have a feeling that I am one step closer to finding my passion.
