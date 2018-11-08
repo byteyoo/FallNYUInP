@@ -6,7 +6,7 @@ description: ':)'
 
 ### PHASE TWO PAPER DRAFT LINK
 
-[https://docs.google.com/document/d/1-Jbn0hKqv97fuIzlvCQIdWEh71O6x0yKu9KLlRGCrXg/edit](https://docs.google.com/document/d/1-Jbn0hKqv97fuIzlvCQIdWEh71O6x0yKu9KLlRGCrXg/edit?usp=sharing)
+[https://www.dropbox.com/s/h86ci0v2amzhgbm/MIT%20CREATE%20PAPER%20DRAFT.pdf?dl=0](https://www.dropbox.com/s/h86ci0v2amzhgbm/MIT%20CREATE%20PAPER%20DRAFT.pdf?dl=0)
 
 ### PRESENTATION LINK
 
