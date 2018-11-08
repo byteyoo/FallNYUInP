@@ -23,4 +23,5 @@
 * [Week 5! - Self-guided tour of NYSCI and Book Thoughts](data-visualization-fall-2018/week-5-self-guided-tour-of-nysci-and-book-thoughts.md)
 * [Week 6 & 7! - Reflection on ProPublica and NYU Data Services](data-visualization-fall-2018/week-6-and-7-reflection-on-propublica-and-nyu-data-services.md)
 * [Week 8! - MIT CREATE UPDATE](data-visualization-fall-2018/week-8-mit-create-update.md)
+* [Week 9! - Phase 2 and MIT CREATE](data-visualization-fall-2018/week-9-phase-2-and-mit-create.md)
 
