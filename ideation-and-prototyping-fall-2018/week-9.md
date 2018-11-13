@@ -68,7 +68,7 @@ The Machine Intelligence Community has a set of core values it stands to uphold.
 
 Automated Pattern Recognization in Satellite Imagery Analysis ****
 
-![Machine Learning Algorithm](../.gitbook/assets/image%20%282%29.png)
+![Machine Learning Algorithm](../.gitbook/assets/image%20%283%29.png)
 
   
 ****Scene Segmentation in Remote Sensing Data
