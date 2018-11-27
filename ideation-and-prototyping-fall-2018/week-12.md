@@ -16,6 +16,73 @@ We decided to use laser cutter because it is a lot faster to make multiple proto
 
 Cheers,
 
-Steven Yoo  
+Steven Yoo
+
+### The Sunless Age: Future Dystopia Project 
+
+#### Blindness Prevention Sunglasses: BPGs
+
+Materials:
+
+1. Sunglasses Frame
+   * Wood: Low-Quality Version
+   * Acrylic: High-Quality Version
+2. Sunglasses Lenses: Acrylic​
+3. Hinges
+   * Wood
+   * Screws
+4. Paint: Low-Quality Version
+5. LED light strip\(s\)
+6. Lilypad Battery Holder
+   * Watch Batteries​
+7. Wires
+8. Soldering/Gluing Tools
+
+Glasses Measurements
+
+* Frames: 6 inches by 4.45 inches
+* Arms: 5.7 inches by 1.32 inches
+* Hinges: 1.5 inches
+
+​
+
+Social Inequality \(Rich vs. Poor\):
+
+The BPGs with LEDs on the exterior frame are the low-quality version because the light doesn’t directly hit the wearer’s pupils via the lenses like with the higher quality version. At a whopping $10,000 per pair, only the rich can afford the higher quality BPGs, and as a result poor people have worse eyesight than the rich \(Low quality BPGs cost $1000 per pair\).
+
+* Will include price plaque in front of each type of BPG for final showcase
+
+​
+
+Inspiration for BPG Design:
+
+[https://grapee.jp/en/104093](https://grapee.jp/en/104093)
+
+* High-quality sunglasses that the rich can afford​
+
+![](https://lh4.googleusercontent.com/iad8RcDLstmN7u_SAl77uWtghuDY6mQXCbIOjEcTN79wqdQlQXboXZ_AGQ-U-kIUv5eBj0rk7c2_mhbNbrAC9RYVFQNdW4DlgvhwxcbSGnnbLdk_K1zTWwgPJlQ_DFmfdn0jxN_j)
+
+​[https://www.youtube.com/watch?v=m0EwDsWivV4](https://www.youtube.com/watch?v=m0EwDsWivV4)
+
+* Low-quality sunglasses that the poor can afford
+
+​
+
+![](https://lh4.googleusercontent.com/F_NqwsOh0tc0lZVMnUc7RNJ9uoaaxQXzOtlXLb3Ym82RqyyTUS2RGXiCPV7J07bGzM1ld-4unKWTvy_MNrQayMu99bnLx8z2Sw2fU6wNPFBYXhuShbrDqySyTk4NPbJq9t5KAblp)
+
+​Video Message From the Future:
+
+Anti-war message warning humans of the dark future to come
+
+* Explanation of the sunless age
+* Description of glasses and their use \(how/why these have become essential to having a decent quality of life\)
+* Social commentary?
+* Found footage, home video feel
+  * Fisheye lens?
+  * Recorded on iPhone?
+  * Grainy
+  * Interruptions
+
+​  
 
 
