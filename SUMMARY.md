@@ -28,4 +28,6 @@
 * [Week 8! - MIT CREATE UPDATE](data-visualization-fall-2018/week-8-mit-create-update.md)
 * [Week 9! - Phase 2 and MIT CREATE](data-visualization-fall-2018/week-9-phase-2-and-mit-create.md)
 * [Week 10! - MIT CREATE UPDATE](data-visualization-fall-2018/week-10-mit-create-update.md)
+* [Week 11! - Thanksgiving and MIT CREATE](data-visualization-fall-2018/week-11-thanksgiving-and-mit-create.md)
+* [Week 12! - MIT CREATE Progress and Toolkit Post](data-visualization-fall-2018/week-12-mit-create-progress-and-toolkit-post.md)
 
