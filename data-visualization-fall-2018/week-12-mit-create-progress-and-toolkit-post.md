@@ -7,7 +7,26 @@
 * Zhenwen, Kate, and I talked about who is going to see this data visualization? Academia and MIT CREATE's community partners.
 * For the next data visualization, here is a rough idea for visualizing basic utilities:
 
-![Rough Example](../.gitbook/assets/good_ex.PNG)
+![Rough DataViz Example for Lime and Imphepho](../.gitbook/assets/good_ex.PNG)
+
+#### Storage:
+
+{% hint style="info" %}
+Tell story about how much movement there is between vendors and storage sites.
+{% endhint %}
+
+![Unfiltered Storage data](../.gitbook/assets/screen-shot-2018-11-29-at-4.45.25-pm.png)
+
+![Cleaned Data with Operating Hours](../.gitbook/assets/screen-shot-2018-11-29-at-4.49.45-pm.png)
+
+  
+
+
+  
+
+
+  
+
 
 The slider will represent the time frame of each vendors' activity. It would be really great to see geographic and time dependent utilities usage to MIT CREATE and their community partners. 
 
