@@ -19,6 +19,8 @@ Tell story about how much movement there is between vendors and storage sites.
 
 ![Cleaned Data with Operating Hours](../.gitbook/assets/screen-shot-2018-11-29-at-4.49.45-pm.png)
 
+![](../.gitbook/assets/screen-shot-2018-11-29-at-4.54.43-pm.png)
+
   
 
 
