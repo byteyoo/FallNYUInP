@@ -16,6 +16,7 @@
 * [Week 10!](ideation-and-prototyping-fall-2018/week-10.md)
 * [Week 11!](ideation-and-prototyping-fall-2018/week-11.md)
 * [Week 12!](ideation-and-prototyping-fall-2018/week-12.md)
+* [Week 13!](ideation-and-prototyping-fall-2018/week-13.md)
 
 ## Data Visualization Fall 2018
 
@@ -30,4 +31,5 @@
 * [Week 10! - MIT CREATE UPDATE](data-visualization-fall-2018/week-10-mit-create-update.md)
 * [Week 11! - Thanksgiving and MIT CREATE](data-visualization-fall-2018/week-11-thanksgiving-and-mit-create.md)
 * [Week 12! - MIT CREATE Progress and Toolkit Post](data-visualization-fall-2018/week-12-mit-create-progress-and-toolkit-post.md)
+* [Week 13!](data-visualization-fall-2018/week-13.md)
 
