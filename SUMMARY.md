@@ -17,6 +17,7 @@
 * [Week 11!](ideation-and-prototyping-fall-2018/week-11.md)
 * [Week 12!](ideation-and-prototyping-fall-2018/week-12.md)
 * [Week 13!](ideation-and-prototyping-fall-2018/week-13.md)
+* [Week 14!](ideation-and-prototyping-fall-2018/week-14.md)
 
 ## Data Visualization Fall 2018
 
