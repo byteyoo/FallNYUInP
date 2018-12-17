@@ -27,5 +27,7 @@ Mealie market
 
 [http://htmlpreview.github.io/?https://github.com/requiemleaf/Data-Visualization/blob/master/MIT%20CTEATE/Mealie%20Market.html](http://htmlpreview.github.io/?https://github.com/requiemleaf/Data-Visualization/blob/master/MIT%20CTEATE/Mealie%20Market.html)
 
+### Paper
 
+[https://docs.google.com/document/d/1-ImjkxwedmEJWs\_l1Jem4-6ilE2oyJCh6d98AC37mD0/edit?usp=sharing](https://docs.google.com/document/d/1-ImjkxwedmEJWs_l1Jem4-6ilE2oyJCh6d98AC37mD0/edit?usp=sharing)
 
