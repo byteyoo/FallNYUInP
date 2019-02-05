@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Byte Me! Main Page](README.md)
+* [Narrative VR Spring 2019](narrative-vr-spring-2019.md)
 
 ## Ideation and Prototyping Fall 2018
 
