@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Byte Me! Main Page](README.md)
-* [Narrative VR Spring 2019](narrative-vr-spring-2019.md)
 
 ## Ideation and Prototyping Fall 2018
 
@@ -35,4 +34,12 @@
 * [Week 12! - MIT CREATE Progress and Toolkit Post](data-visualization-fall-2018/week-12-mit-create-progress-and-toolkit-post.md)
 * [Week 13! - PROGRESS!](data-visualization-fall-2018/week-13.md)
 * [Week 14! - Final Presentation!](data-visualization-fall-2018/week-14-final-presentation.md)
+
+## Narrative VR Spring 2019
+
+* [Week 1](narrative-vr-spring-2019-1/week-1.md)
+
+## Video Art Installation Spring 2019
+
+* [Week 1](video-art-installation-spring-2019/untitled.md)
 
