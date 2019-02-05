@@ -8,7 +8,7 @@
 
 ### \(The Matrix\) Movie Response:
 
-![The Matrix \(1999\)](../.gitbook/assets/image%20%284%29.png)
+![The Matrix \(1999\)](../.gitbook/assets/image%20%285%29.png)
 
 {% hint style="info" %}
 Choose a film from the list to watch and write a 200 word response. Are they Utopian or Dystopian? Was there a single technology or event that made it that way. Could that technology or another equal event change it from Utopian to Dystopian, or Dystopian to Utopian? Are there any story elements or themes that you can borrow from for your own final project?
@@ -28,7 +28,7 @@ After going to the several conferences. I wanted to take a break from academia a
 **What have I discovered this week?**  
 It's been eight years since Rockstar released Red Dead Redemption, an open-world, story-based action-adventure game set in the Wild West for the PlayStation 3 and Xbox 360. Most gamers consider it to be a modern masterpiece, and some \(myself included\) even herald it as one of the best games ever made.
 
-![Rockstar logo](../.gitbook/assets/image%20%287%29.png)
+![Rockstar logo](../.gitbook/assets/image%20%288%29.png)
 
 Developed by Rockstar Games -- the studio behind marquee franchises such as Grand Theft Auto and Max Payne -- the original Red Dead Redemption was an open-world Wild West epic set in 1911. Consisting primarily of a single-player, action-adventure campaign, the game cast you as John Marston, a complex and conflicted former outlaw forced to hunt down his old crew after the government takes his wife and son hostage. ****As video games go, Red Dead Redemption was notable for the vast landscapes and breathtaking vistas of its map, which takes you through a surprisingly diverse mix of Western-influenced settings -- everything from dusty ghost towns and Mexican mesas to serene prairies and snowy mountain trails populated with lumbering grizzlies. So I really appreciated their detailed work and effort to create this masterpiece. 
 
