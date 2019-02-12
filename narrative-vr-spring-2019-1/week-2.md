@@ -25,3 +25,11 @@ VRChat is a social network that allows players to interact with each other in re
 The Lab is a VR game where is based on Game: Portal. The eight minigames show different types of VR functionality. It’s a good experience for a beginner to learn basic operations and how to play games. My favorite minigame is Xortex box, a bullet hell type game, I really enjoyed in such a small space and fired to enemy ships. The visual style is also beautiful. I would recommend this game to anyone!  
 
 
+#### BONUS
+
+I found a person testing his VR game. :\)
+
+![Play Testing](../.gitbook/assets/img_5597.jpg)
+
+
+
