@@ -38,8 +38,5 @@
 ## Narrative VR Spring 2019
 
 * [Week 1](narrative-vr-spring-2019-1/week-1.md)
-
-## Video Art Installation Spring 2019
-
-* [Week 1](video-art-installation-spring-2019/untitled.md)
+* [Week 2](narrative-vr-spring-2019-1/week-2.md)
 

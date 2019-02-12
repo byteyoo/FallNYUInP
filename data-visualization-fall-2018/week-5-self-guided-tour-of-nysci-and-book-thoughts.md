@@ -22,7 +22,7 @@ Connected Worlds is an interactive ecosystem developed for the New York Hall of 
 
 Children play around with a virtual-reality water in the system and have to work together to control and deliver the water across the different environment settings. Virtual clouds return water from the environment settings to the waterfall which releases water to the floor when it rains.
 
-![Connected Worlds](../.gitbook/assets/image%20%286%29.png)
+![Connected Worlds](../.gitbook/assets/image%20%288%29.png)
 
 ![](../.gitbook/assets/img_4869.JPG)
 
