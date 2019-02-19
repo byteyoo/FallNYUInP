@@ -9,11 +9,29 @@
 * **Post video capture of your interactions onto your blog and put the link to your post on the Week 3 Slack channel**
 {% endhint %}
 
+![Mood Board :\)](../.gitbook/assets/escape-room-vr.png)
+
 ### Storyboard
 
-In my storyboard, I want to tell a story where a man is trying to escape room from the random storage room. the main character will be looking for clues and items to find an escape plan from the kidnappers. There will be multiple options to escape from this room.
+In my storyboard, I want to tell a story where a man is trying to \(scary\) escape room from the random storage room. The main character will be looking for clues and items to find an escape plan from the kidnappers \(Possibly Zombies\). There will be multiple options to escape from this room. It will be single-player solo given a specialized gun. I will be coming up for more design ideas and gameplay design \(i.e., Level Difficulty, Finding Music Scores, and Model designing\). 
 
 ![Escape a storage room setting: Still dealing with Metal and Mesh with XCode \(MAC\)](../.gitbook/assets/screen-shot-2019-02-19-at-12.33.56-pm.png)
 
 ![Destroy the boxes or any given items to escape the storage room.](../.gitbook/assets/screen-shot-2019-02-19-at-12.35.04-pm.png)
+
+{% embed url="https://youtu.be/GnMxqU25P4Q" %}
+
+
+
+### Tilt Brush
+
+I used Tilt Brush at the Black Box studio. It was really awesome VR software to initialize basic ideation tool. I tried to create a 3D box to see if I can bring this 3D mesh into Unreal Engine. I am planning to use different box models. It is probably better idea to borrow existing libraries. 
+
+![Tilt Brush 3D Box](../.gitbook/assets/box.PNG)
+
+![Sketching 3D Box](../.gitbook/assets/box1.PNG)
+
+Cheers,
+
+Steven Yoo
 
