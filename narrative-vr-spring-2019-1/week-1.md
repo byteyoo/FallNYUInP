@@ -6,7 +6,7 @@ description: ':)'
 
 This week's homework, we learned how to set up and configure Oculus and required to watch  Google Earth VR, Showdown, Henry, and Dear Angelica.
 
-![Dear Angelica](../.gitbook/assets/image%20%284%29.png)
+![Dear Angelica](../.gitbook/assets/image%20%285%29.png)
 
 **Google Earth VR**
 

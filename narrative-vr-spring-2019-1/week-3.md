@@ -11,6 +11,14 @@
 
 ![Mood Board :\)](../.gitbook/assets/escape-room-vr.png)
 
+### Possible VR Environment
+
+![Scary Locked Room](../.gitbook/assets/image%20%283%29.png)
+
+![](../.gitbook/assets/image%20%2815%29.png)
+
+![](../.gitbook/assets/image%20%287%29.png)
+
 ### Storyboard
 
 In my storyboard, I want to tell a story where a man is trying to \(scary\) escape room from the random storage room. The main character will be looking for clues and items to find an escape plan from the kidnappers \(Possibly Zombies\). There will be multiple options to escape from this room. It will be single-player solo given a specialized gun. I will be coming up for more design ideas and gameplay design \(i.e., Level Difficulty, Finding Music Scores, and Model designing\). 
