@@ -39,6 +39,19 @@ I used Tilt Brush at the Black Box studio. It was really awesome VR software to 
 
 ![Sketching 3D Box](../.gitbook/assets/box1.PNG)
 
+### Constraints
+
+* My MacBook Pro is crunching my CPU power and still having some problem with metal textures and mesh import.
+* In the future, I'll upload my files from Blackbox computer or my home desktop.
+
+### Next Step
+
+* Updating my storyboard and keep working on narrative contents
+* **Try importing my Tiltbrush assets into Unreal Engine**
+* Build my main character and its storyline
+
+
+
 Cheers,
 
 Steven Yoo
