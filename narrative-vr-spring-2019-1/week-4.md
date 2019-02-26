@@ -6,6 +6,10 @@ For the midterm project, I want to create a cold wintery snow forest environment
 
 I want to create an environment and an aesthetic narrative story to let players to enjoy and appreciate the winter forest and wildlife. Many people wants to stay under their blanket and not doing anything at all and that is so boring and depressing. I understand why people don’t like winters and drink hot chocolate or have the opportunity to stay under their covers because it is not all such a nice feeling if we consider the factors leading to this.
 
+### Story Outline
+
+I want to start my narrative story to begin with WASD controlled with sit-down environment. The player will have freedom to access both winter forest and log cabin home. Adding wildlife animals and casual skiers and snowboarders and maybe adding your future boyfriend or girlfriend on a trip together.
+
 ![Winter Snow Forest Mood Board ](../.gitbook/assets/snowmood.png)
 
 ### Log Cabin
