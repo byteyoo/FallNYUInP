@@ -41,4 +41,5 @@
 * [Week 2](narrative-vr-spring-2019-1/week-2.md)
 * [Week 3](narrative-vr-spring-2019-1/week-3.md)
 * [Week 4](narrative-vr-spring-2019-1/week-4.md)
+* [Week 5](narrative-vr-spring-2019-1/week-5.md)
 
