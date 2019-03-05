@@ -10,11 +10,7 @@
 
 I have focused on building a log cabin \(without a roof, not sure how big my character are going to be\). I also mentioned that there will be log cabin and outside scenes. This week, I focused on designing the house. 
 
-This will be mainly two characters: Jasper, a little boy that wondering around the outside world and log cabin scenes. I am planning to make a story/game to chasing from monster and your goal is to make it to the log cabin.
-
-I was looking into wildlife animals but I saw vast amount of monster collections in mixamo.com. 
-
-### 
+This will be mainly two characters: Jasper, a little boy that wondering around the outside world and log cabin scenes. I am planning to make a story/game to chasing from monster and your goal is to make it to the log cabin.. 
 
 ### Character Creation
 
@@ -22,15 +18,15 @@ I was looking into wildlife animals but I saw vast amount of monster collections
 
 {% embed url="https://youtu.be/A-BMlGA\_WHU" %}
 
-
-
-### 
-
 ### Documentation
-
-
 
 ![grid detailing the four different types of story in VR:](../.gitbook/assets/image%20%2821%29.png)
 
 This story will be using WASD control to move around the world with VR  headset experience. I am still debating if I am going to add a weapon to trigger some actions \(most likely, I am going to try during my final project\).
+
+I am going to expand my map so it will be more based on running away from the monster story.
+
+Sincerely,
+
+Steven Yoo
 
