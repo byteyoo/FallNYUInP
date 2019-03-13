@@ -24,6 +24,10 @@ description: MIDTERM PRESENTATION
 
 My initial idea was to create an escape room and wintery forest theme with wild animals. I decided to create both log cabin and wintery forest. I want to incorporate with both of them in one scene. A boy getting chase down by wild animals \(Wolf and Deers\). 
 
+![A picture of Tarantula ](../.gitbook/assets/image%20%282%29.png)
+
+![](../.gitbook/assets/image%20%283%29.png)
+
 ### How did your mood boarding and storyboarding change that idea?
 
 Mood boarding and initial storyboarding definitely changed a lot due to limitation of my personal skills. I really had a very difficult time to learn and spend few hours to learn animation technique. So I had to really simplify the process. However, the whole concept of mood boarding and storyboarding allow myself to visualize the narrative story.
