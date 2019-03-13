@@ -26,8 +26,6 @@ My initial idea was to create an escape room and wintery forest theme with wild 
 
 ![A picture of Tarantula ](../.gitbook/assets/image%20%282%29.png)
 
-![](../.gitbook/assets/image%20%283%29.png)
-
 ### How did your mood boarding and storyboarding change that idea?
 
 Mood boarding and initial storyboarding definitely changed a lot due to limitation of my personal skills. I really had a very difficult time to learn and spend few hours to learn animation technique. So I had to really simplify the process. However, the whole concept of mood boarding and storyboarding allow myself to visualize the narrative story.
