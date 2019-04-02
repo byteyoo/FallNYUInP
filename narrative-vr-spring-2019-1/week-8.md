@@ -6,6 +6,10 @@ description: 'Final Project group formed :)'
 
 This week I formed a group with Chenchen, Grant and me \(UNICORN\).
 
+For More beautiful powerpoint... Link below!
+
+[https://docs.google.com/presentation/d/19zqaaTXPrm\_\_qKMYSXjjUTtC13f39NNiPvrV2S\_j16A/edit?usp=sharing](https://docs.google.com/presentation/d/19zqaaTXPrm__qKMYSXjjUTtC13f39NNiPvrV2S_j16A/edit?usp=sharing)
+
 ### Storyboard:
 
 **Storyboard Inspirations:**
