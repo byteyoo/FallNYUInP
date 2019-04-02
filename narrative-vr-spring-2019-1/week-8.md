@@ -66,11 +66,13 @@ This week I formed a group with Chenchen, Grant and me \(UNICORN\).
   
 ****
 
-![](https://lh4.googleusercontent.com/M_vX8SMI48ACZMJ2pjy18_oeCClMHnbOhHATUfhgswM7XQGs5dH1VosK6jMTw8S84-69eyOCEfd9pxkT8V5ErhkmcS5Mo26lmt4p2CEVLMaxCHUN508cCOa_DPRN7rlh0u6BD0ywNcU)
+![White room](https://lh4.googleusercontent.com/M_vX8SMI48ACZMJ2pjy18_oeCClMHnbOhHATUfhgswM7XQGs5dH1VosK6jMTw8S84-69eyOCEfd9pxkT8V5ErhkmcS5Mo26lmt4p2CEVLMaxCHUN508cCOa_DPRN7rlh0u6BD0ywNcU)
 
-![](https://lh5.googleusercontent.com/KUeSJTzCmUQxjrzdCAvAeXYvIFz4tS_mndlrROfz9ShCBkA7AiZ2RSxMWpTG4eBLNtxZKwpWckij1CKlIcP43c9g7HuVJxA26za2a86Bb5-9fZgAGWepiVXrOy9e0K3agc1g7DwIViU)
+![Forest](https://lh5.googleusercontent.com/KUeSJTzCmUQxjrzdCAvAeXYvIFz4tS_mndlrROfz9ShCBkA7AiZ2RSxMWpTG4eBLNtxZKwpWckij1CKlIcP43c9g7HuVJxA26za2a86Bb5-9fZgAGWepiVXrOy9e0K3agc1g7DwIViU)
 
-![](https://lh5.googleusercontent.com/wErfE0mOQg2iV_bEpTJgJtj452-iADx1KsMJBwUbZK28y5KTruGl6Gfynpsi290dpoKduSDyITRjdePGPMlygeiL9qegROAt5B3PDsvCJZ0yhb3HoMgDyYRbC2dXj-kiYp-PTqsAYJQ)
+![Desert Platform](https://lh5.googleusercontent.com/wErfE0mOQg2iV_bEpTJgJtj452-iADx1KsMJBwUbZK28y5KTruGl6Gfynpsi290dpoKduSDyITRjdePGPMlygeiL9qegROAt5B3PDsvCJZ0yhb3HoMgDyYRbC2dXj-kiYp-PTqsAYJQ)
 
-![](https://lh6.googleusercontent.com/HnIQp1g7dae3GNxL3_B2kS9dEpLWoPmv3zqdgz_9gnUsOclJ6f1nTCXhjtAg6wjTkKcesl5ki7rMLBWKDgzs9ppe0IKnVUrsQkWaodN06M22qBoVzwz7fL6OEO_HGFt_FGvTRiPU)
+![Inspiration: Akira ](https://lh6.googleusercontent.com/HnIQp1g7dae3GNxL3_B2kS9dEpLWoPmv3zqdgz_9gnUsOclJ6f1nTCXhjtAg6wjTkKcesl5ki7rMLBWKDgzs9ppe0IKnVUrsQkWaodN06M22qBoVzwz7fL6OEO_HGFt_FGvTRiPU)
+
+![Deer](https://lh4.googleusercontent.com/f4sOY8Gpn-ikDSkboIUriJUDEnCwFBePoGJ14yEwRDz3zjQmL1kgxtto5xvDGRbFCX1SMIHLZJjQGDyGBFYO-wI9nAdb7h3esCtnwTnrVOHpQ1IZTx4dJrWFwI8rcM3XcHVM_BVpJ2o)
 
