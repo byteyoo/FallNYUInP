@@ -6,7 +6,7 @@ description: >-
 
 # Valen Lab
 
-### Given Dataset of Nile overflow data
+### Given Dataset of Nile overflow data \([https://bit.ly/2rPABAH](https://bit.ly/2rPABAH)\)
 
 {% code title="new\_nile\_format.csv" %}
 ```text
@@ -72,8 +72,6 @@ From the website: Long Memory and the Nile: Herodotus, Hurst and H. We can see t
 
 \*\* The original data consists of average monthly flow measurements from January 1869 to December 1984. Which I couldn't get access to the full dataset. For this exercise, I used Jan 1869 to December 1874. 
 
-Series length must be greater or equal to 100 samples, due to small size of the data with 72 dataset. I wasn't able to produce Hurst Exponent.
-
 #### Hurst Exponent
 
 The goal of the Hurst Exponent is to provide us with a scalar value that will help us to identify \(within the limits of statistical estimation\) whether a series is mean reverting, random walking or trending.
@@ -103,6 +101,8 @@ A time series can then be characterized in the following manner:
 * **H&gt;0.5H&gt;0.5** - The time series is trending
 
 In addition to characterization of the time series the Hurst Exponent also describes the extent to which a series behaves in the manner categorized. For instance, a value of HH near 0 is a highly mean reverting series, while for HH near 1 the series is strongly trending.
+
+The code below represents the hurst exponent and random changes value. Due to its small sample data size. I wasn't able to produce a hurst exponent. Instead, I've substitute with a random series.
 
 {% code title="hurst.py" %}
 ```python
