@@ -14,13 +14,11 @@ I am using one of the pre-approved datasets, to be more specific I am using a To
 
 Sample datasets: [Medical School Demographics](https://drive.google.com/open?id=0B1KM70jlEfvpazZNTDFVQVRwdzQ)
 
-{% code-tabs %}
-{% code-tabs-item title="D3 Library " %}
+{% code title="D3 Library " %}
 ```javascript
 <script src="http://d3js.org/d3.v3.min.js"></script> <!-- D3 -->
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 First, I looked at the dataset and how they laid out. It came with .xlsx \(Excel\) file extension. 
 
@@ -44,8 +42,7 @@ After an extensive research, they were generally two major approaches: Using an 
 
 #### Internal Javascript Method
 
-{% code-tabs %}
-{% code-tabs-item title="uStates.js" %}
+{% code title="uStates.js" %}
 ```javascript
 (function(){
 	var uStatePaths=[
@@ -124,8 +121,7 @@ After an extensive research, they were generally two major approaches: Using an 
 	this.uStates=uStates;
 })();
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 See [https://jsmaps.io/america/javascript-map-usa-territories/](https://jsmaps.io/america/javascript-map-usa-territories/)
 
@@ -133,17 +129,14 @@ See [https://jsmaps.io/america/javascript-map-usa-territories/](https://jsmaps.i
 
 ![JQuery Library U.S Map](../.gitbook/assets/screen-shot-2018-09-20-at-1.13.47-am.png)
 
-{% code-tabs %}
-{% code-tabs-item title="index.html" %}
+{% code title="index.html" %}
 ```markup
 <div id="map" style="width: 350px; height: 250px;"></div>
 <div id="clicked-state"></div>
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
-{% code-tabs %}
-{% code-tabs-item title="uStates.js" %}
+{% code title="uStates.js" %}
 ```javascript
 $('#map').usmap({
   // The click action
@@ -154,8 +147,7 @@ $('#map').usmap({
   }
 });
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 I am still choosing my best option to go about it! It would be appreciated if anyone can pitch their ideas.
 

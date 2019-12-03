@@ -51,8 +51,7 @@ I am deciding between bar chart or horizontal line chart. I will be using either
 
 Here is a sample code for bar chart visualization:
 
-{% code-tabs %}
-{% code-tabs-item title="Bar\_Chart.js" %}
+{% code title="Bar\_Chart.js" %}
 ```javascript
   // Bar Chart
   var ctx = document.getElementById("barCht");
@@ -101,8 +100,7 @@ Here is a sample code for bar chart visualization:
       legend: false
     }
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endcode %}
 
 ###  For the Week 4! + Random Thoughts 
 

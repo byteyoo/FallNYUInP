@@ -28,25 +28,25 @@ I tried to attempt to make it more snowy environment and creating three friends 
 
 ### INVASION!
 
-![INVASION!](../.gitbook/assets/image%20%2820%29.png)
+![INVASION!](../.gitbook/assets/image%20%2823%29.png)
 
 INVASION is a VR application about a two of aliens with great plan to take over the earth and attempt to destroy anyone who tries to stop them. Instead, they are greeted by the cutest and cuddliest animals on the planet - two adorable, white bunnies….and you are one of them! Because of tall height, the other bunny was about 5'5". Haha.
 
 ### Passage
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 I was really confuse when it comes to following this storyline. I really appreciate the retro-like and 8-bit game. This game was so emotional as the game progress... SPOILER ALERT.... his wife dies in the end.
 
 ### Fall in Love
 
-![Fall in Love](../.gitbook/assets/image%20%2814%29.png)
+![Fall in Love](../.gitbook/assets/image%20%2817%29.png)
 
 I would like to say that technical development was very poorly designed. It has to be position perfectly with your VR person otherwise, it will temporarily pause the game and would not able to process the VR narrative. In narrative perspective, It was okay... they could have included more meaningful questions.
 
 ### Evolution of Verse
 
-![Evolution of Verse](../.gitbook/assets/image%20%2812%29.png)
+![Evolution of Verse](../.gitbook/assets/image%20%2814%29.png)
 
 Evolution of Verse is a short VR film that takes viewers on a journey from one beginning to a new beginning. I was actually inspired by this VR film that based upon my midterm narrative VR story. I really enjoyed wild nature and aesthetic views of this environment.
 

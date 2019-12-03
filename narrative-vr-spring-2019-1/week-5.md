@@ -20,7 +20,7 @@ This will be mainly two characters: Jasper, a little boy that wondering around t
 
 ### Documentation
 
-![grid detailing the four different types of story in VR:](../.gitbook/assets/image%20%2824%29.png)
+![grid detailing the four different types of story in VR:](../.gitbook/assets/image%20%2828%29.png)
 
 This story will be using WASD control to move around the world with VR  headset experience. I am still debating if I am going to add a weapon to trigger some actions \(most likely, I am going to try during my final project\).
 

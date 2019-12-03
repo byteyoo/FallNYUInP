@@ -6,9 +6,9 @@
 **Play “The Lab” and “VRChat” on Steam. Include your thoughts on the experience in your blog post.**  
 {% endhint %}
 
-![UE4](../.gitbook/assets/image%20%289%29.png)
+![UE4](../.gitbook/assets/image%20%2810%29.png)
 
-![UE4](../.gitbook/assets/image%20%2815%29.png)
+![UE4](../.gitbook/assets/image%20%2818%29.png)
 
 I decided to experiment and play around the assets and the materials in Unreal engine. I created assets from the start content and the outdoor landscape. It is really cool to see how we can create game engine content and I want to build my UE4 skills to make my own game or simulations.
 
@@ -20,7 +20,7 @@ VRChat is a social network that allows players to interact with each other in re
 
 #### The Lab
 
-![The Lab \(VR\)](../.gitbook/assets/image%20%2821%29.png)
+![The Lab \(VR\)](../.gitbook/assets/image%20%2824%29.png)
 
 The Lab is a VR game where is based on Game: Portal. The eight minigames show different types of VR functionality. It’s a good experience for a beginner to learn basic operations and how to play games. My favorite minigame is Xortex box, a bullet hell type game, I really enjoyed in such a small space and fired to enemy ships. The visual style is also beautiful. I would recommend this game to anyone!  
 

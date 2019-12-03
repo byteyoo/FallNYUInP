@@ -35,7 +35,7 @@
 * [Week 13! - PROGRESS!](data-visualization-fall-2018/week-13.md)
 * [Week 14! - Final Presentation!](data-visualization-fall-2018/week-14-final-presentation.md)
 
-## Narrative VR Spring 2019
+## Narrative VR Spring 2019 <a id="narrative-vr-spring-2019-1"></a>
 
 * [Week 1](narrative-vr-spring-2019-1/week-1.md)
 * [Week 2](narrative-vr-spring-2019-1/week-2.md)
@@ -45,4 +45,5 @@
 * [Week 6 - MIDTERM](narrative-vr-spring-2019-1/week-6-midterm.md)
 * [Week 7](narrative-vr-spring-2019-1/week-7.md)
 * [Week 8](narrative-vr-spring-2019-1/week-8.md)
+* [Valen Lab](valen-lab.md)
 
