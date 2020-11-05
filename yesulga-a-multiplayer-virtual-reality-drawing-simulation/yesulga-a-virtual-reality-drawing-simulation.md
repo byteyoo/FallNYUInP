@@ -1,4 +1,10 @@
-# Yesulga: A virtual reality drawing simulation
+---
+description: A multimedia and collaborative virtual reality drawing simulation
+---
+
+# Yesulga: A multiplayer virtual reality drawing simulation
+
+### Introduction
 
 **When the COVID-19 hit the United States in March. Many school districts weren’t prepared for the unfortunate reality that schools would have to close and students stay home. So many teachers and students are confronted with the reality of virtual learning for the foreseeable future.**
 
@@ -6,4 +12,10 @@
 
 * Screen resolution is not 1832 x 1920 pixels per eye compared to the original's 1440 x 1600
 * Refresh rate of 72Hz to 90 Hz upgrade
-* 
+
+## What is Yesulga?
+
+![](../.gitbook/assets/yesulga_logo.png)
+
+
+
