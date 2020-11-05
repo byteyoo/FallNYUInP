@@ -4,7 +4,7 @@
 
 ## Yesulga: A multiplayer virtual reality drawing simulation
 
-* [Yesulga: A multiplayer virtual reality drawing simulation](yesulga-a-multiplayer-virtual-reality-drawing-simulation/yesulga-a-virtual-reality-drawing-simulation.md)
+* [Yesulga: A multiplayer virtual reality drawing simulation](yesulga-a-multiplayer-virtual-reality-drawing-simulation/yesulga.md)
 
 ## Ideation and Prototyping Fall 2018
 
