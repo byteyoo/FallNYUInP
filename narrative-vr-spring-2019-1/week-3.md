@@ -13,11 +13,11 @@
 
 ### Possible VR Environment
 
-![Scary Locked Room](../.gitbook/assets/image%20%286%29.png)
+![Scary Locked Room](../.gitbook/assets/image%20%285%29.png)
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### Storyboard
 

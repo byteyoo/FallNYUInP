@@ -2,6 +2,10 @@
 
 * [Byte Me! Main Page](README.md)
 
+## Yesulga: A multiplayer virtual reality drawing simulation
+
+* [Yesulga: A virtual reality drawing simulation](yesulga-a-multiplayer-virtual-reality-drawing-simulation/yesulga-a-virtual-reality-drawing-simulation.md)
+
 ## Ideation and Prototyping Fall 2018
 
 * [Week 1!](ideation-and-prototyping-fall-2018/week-1.md)
@@ -15,8 +19,8 @@
 * [Week 9!](ideation-and-prototyping-fall-2018/week-9.md)
 * [Week 10!](ideation-and-prototyping-fall-2018/week-10.md)
 * [Week 11!](ideation-and-prototyping-fall-2018/week-11.md)
-* [Week 12!](ideation-and-prototyping-fall-2018/week-12.md)
-* [Week 13!](ideation-and-prototyping-fall-2018/week-13.md)
+* [Week 12!](ideation-and-prototyping-fall-2018/week-12/README.md)
+  * [Week 13!](ideation-and-prototyping-fall-2018/week-12/week-13.md)
 * [Week 14!](ideation-and-prototyping-fall-2018/week-14.md)
 
 ## Data Visualization Fall 2018
@@ -45,5 +49,9 @@
 * [Week 6 - MIDTERM](narrative-vr-spring-2019-1/week-6-midterm.md)
 * [Week 7](narrative-vr-spring-2019-1/week-7.md)
 * [Week 8](narrative-vr-spring-2019-1/week-8.md)
-* [Valen Lab](valen-lab.md)
+
+---
+
+* [Valen Lab](valen-lab/README.md)
+  * [Week 9](valen-lab/week-9.md)
 

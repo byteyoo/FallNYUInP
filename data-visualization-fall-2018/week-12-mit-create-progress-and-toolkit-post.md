@@ -38,7 +38,7 @@ The slider will represent the time frame of each vendors' activity. It would be 
 
   * [CARTO: ](http://carto.com/)How is CARTO different from other mapping tools?
 
-![CARTO MAPPING](../.gitbook/assets/image%20%287%29.png)
+![CARTO MAPPING](../.gitbook/assets/image%20%286%29.png)
 
 * The CARTO system provides a highly accurate geometric rendering of a cardiac chamber with a straightforward geometric display that has the capability to determine the 3-D location and orientation of the ablation catheter accurately.
 * CARTO provides the capability to create and tag several potential points of interest during the mapping process \(e.g., double potentials and sites with good pace maps\) and return to them with great precision, which provides significant advantages over conventional techniques.
