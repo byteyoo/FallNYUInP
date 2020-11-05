@@ -2,7 +2,7 @@
 description: A multimedia and collaborative virtual reality drawing simulation
 ---
 
-# Yesulga: A multiplayer virtual reality drawing simulation
+# Yesulga
 
 ### Introduction
 
