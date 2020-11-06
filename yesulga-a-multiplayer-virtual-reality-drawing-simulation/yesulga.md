@@ -74,5 +74,3 @@ It all started with my computer engineering background and numerous projects to 
 
 ### Prototype
 
-![](../.gitbook/assets/20201105223723_1.jpg)
-
