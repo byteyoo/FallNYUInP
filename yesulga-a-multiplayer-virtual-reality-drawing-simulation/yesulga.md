@@ -59,11 +59,14 @@ I discovered how the Tilt Brush could be used for than just painting - but for [
 
 It all started with my computer engineering background and numerous projects to formulate the Magic Bottle VR. My ultimate goal goals were to capture real-time biometric values like eye tracking, electrodermal activity \(or galvanic skin response\), and heart rate to observe if there is a significant changes in those biometric activities.
 
-**Unfortunately,** Due to the COVID-19 pandemic, I was unable to conduct an user testing to see the potential and significances of this project. **However**, It also led me to explore possible technology affordances and use cases to impact all aspects of remote learning. Now here I am to introduce **Yesulga**.  
+**Unfortunately,** Due to the COVID-19 pandemic, I was unable to significant number of user testing to see the potential of this project. **However**, It also led me to explore possible technology affordances and use cases to impact all aspects of remote learning. Now here I am to introducing my current project: **Yesulga**.
+
+#### Tech Specs \(Links provided\): <a id="tech-specs"></a>
+
+* **​**[**Tobii HTC VR Eye Tracking Headset**](https://imotions.com/hardware/tobii-htc-vive-vr-headset/)**​**
+* **​**[**Empatica E4 Wristband**](https://imotions.com/hardware/empatica-e4-eda-gsr-wristband/)
 
 {% embed url="https://youtu.be/QZH9CG3TspY" caption="Magic Bottle VR Trailer" %}
 
-
-
-
+{% embed url="https://youtu.be/tQm1jVWcRZI" caption="User Testing" %}
 
