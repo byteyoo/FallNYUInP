@@ -26,7 +26,7 @@ As I previously mentioned Yesulga is a multiplayer virtual reality drawing simul
 
 #### Core features:
 
-* [ ] Each players must have a palette and brush.
+* [ ] Each players must have a color plate and brush.
 * [ ] Right and Left handed option.
 * [ ] Multiplayer \(Single player offline for now\).
 * [ ] Simple controls.
@@ -72,5 +72,19 @@ It all started with my computer engineering background and numerous projects to 
 
 ### Literature Reviews
 
-### Prototype
+\[Available soon\]
+
+### 3D models
+
+#### Color Plate
+
+![](../.gitbook/assets/paint-plate.png)
+
+![I&apos;ve created a simple color plate out of a cylinder and cubes in Unity](../.gitbook/assets/screenshot-2020-11-06-011520.png)
+
+#### Brush
+
+![](../.gitbook/assets/paint-brush.png)
+
+![I&apos;ve created a simple brush in Unity](../.gitbook/assets/screenshot-2020-11-06-011533.png)
 
