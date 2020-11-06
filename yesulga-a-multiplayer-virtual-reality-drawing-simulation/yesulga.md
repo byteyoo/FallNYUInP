@@ -18,7 +18,7 @@ description: A multimedia and collaborative virtual reality drawing simulation
 * Refresh rate of 72Hz to 90 Hz upgrade
 * Cheap! \($299 for 64GB and $399 for 256GB\)
 
-## What is Yesulga?
+### What is Yesulga?
 
 ![&quot;Yesulga&quot; means &quot;artist&quot; in Korean.](../.gitbook/assets/yesulga_logo.png)
 
@@ -69,4 +69,10 @@ It all started with my computer engineering background and numerous projects to 
 {% embed url="https://youtu.be/QZH9CG3TspY" caption="Magic Bottle VR Trailer" %}
 
 {% embed url="https://youtu.be/tQm1jVWcRZI" caption="User Testing" %}
+
+### Literature Reviews
+
+### Prototype
+
+![](../.gitbook/assets/20201105223723_1.jpg)
 
